@@ -46,7 +46,7 @@ Contributions to improve existing code snippets or add new ones are welcome! Fee
 
 
 
--------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Below is the README.md content tailored for your Python script to scrape Twitter data using ScraperAPI and save it to JSON and CSV files:
@@ -92,7 +92,11 @@ Respect Twitter's rate limits and API usage policies to avoid being blocked or r
 Contributions
 Contributions to improve the script or add new features are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
 
-------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 *Python script to fetch trending topics from Twitter using Tweepy:*
 
 markdown
