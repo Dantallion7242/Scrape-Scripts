@@ -7,7 +7,7 @@ twitter_data = []
 current_datetime = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 
 payload = { 
-    'api_key' : 'a171e65fac278482abbea12695f610fe' , 
+    'api_key' : '' , 
     'query' : 'casino',
     'num' : '10000'
 }
