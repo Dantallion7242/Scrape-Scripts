@@ -93,7 +93,7 @@ Contributions
 Contributions to improve the script or add new features are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
 
 ------------------------------------------------------------------------------
-Certainly! Here's the README.md content for your Python script to fetch trending topics from Twitter using Tweepy:
+*Python script to fetch trending topics from Twitter using Tweepy:*
 
 markdown
 Copy code
