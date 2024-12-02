@@ -10,18 +10,15 @@ puppeteer_scraping.js: Provides an example of web scraping with Puppeteer in Nod
 Usage Instructions
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your_username/web-scraping.git
+
+git clone https://github.com/Dantallion7242/Scrape-Scripts.git
 Navigate to the directory:
 
-bash
-Copy code
+
 cd web-scraping
 Install the required libraries if you haven't already:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Choose the appropriate code snippet based on your scraping needs.
 
@@ -49,10 +46,6 @@ Contributions to improve existing code snippets or add new ones are welcome! Fee
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Below is the README.md content tailored for your Python script to scrape Twitter data using ScraperAPI and save it to JSON and CSV files:
-
-markdown
-Copy code
 # Twitter Data Scraping with ScraperAPI
 
 This Python script demonstrates how to scrape Twitter data using ScraperAPI, and save it to JSON and CSV files.
@@ -64,7 +57,7 @@ This Python script demonstrates how to scrape Twitter data using ScraperAPI, and
 - requests
 
 Install the required libraries using pip:
-```bash
+
 pip install pandas requests
 Usage
 Set up a ScraperAPI account and obtain your API key.
@@ -99,8 +92,7 @@ Contributions to improve the script or add new features are welcome! Feel free t
 
 *Python script to fetch trending topics from Twitter using Tweepy:*
 
-markdown
-Copy code
+
 # Twitter Trending Topics Fetcher
 
 This Python script fetches the top trending topics from Twitter using the Tweepy library.
@@ -111,7 +103,6 @@ This Python script fetches the top trending topics from Twitter using the Tweepy
 - tweepy
 
 Install the required library using pip:
-```bash
 pip install tweepy
 Usage
 Clone the repository or download the script.
@@ -134,8 +125,6 @@ Optionally, specify the WOEID (Where On Earth ID) for the desired location in th
 
 Run the script:
 
-bash
-Copy code
 python fetch_trending_topics.py
 The script will connect to the Twitter API, fetch the top trending topics, and print them along with their tweet volumes (if available).
 
